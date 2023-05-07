@@ -1,0 +1,110 @@
+@media (min-width:992px) and (max-width:1199.98px)
+{
+    #banner h1 {
+        font-size: 50px;
+        letter-spacing: 20px;
+    }
+    #banner h3 {
+        font-size: 28px;
+    }
+    #banner img {
+        display: block;
+        margin: 45px auto;
+    }
+    #banner p {
+        font-size: 17px;
+    }
+    #banner a {
+        padding: 18px 40px;
+    }
+
+}
+
+
+@media (min-width:768px) and (max-width:991.98px)
+{
+    #banner h1 {
+        font-size: 56px;
+        letter-spacing: 27px;
+    }
+    #banner h3 {
+        font-size: 26px;
+    }
+    #banner p {
+        font-size: 16px;
+    }
+    #banner img {
+        display: block;
+        margin: 30px auto 48px;
+    }
+    #banner a {
+        font-size: 14px;
+        padding: 15px 32px;
+
+    }
+}
+
+@media (min-width:576px) and (max-width:767.98px)
+{
+    .section_info p {
+        color: #7e8287;
+        font-size: 14px;
+        line-height: 34px;
+    }
+    .section_info h2 {
+        font-size: 40px;
+    }
+    #service .section_info {
+        padding: 60px 0 50px;
+        margin-right: 0px;
+    }
+    #banner h3 {
+        font-size: 26px;
+    }
+    #banner h1 {
+        font-size: 55px;
+        letter-spacing: 22px;
+    }
+}
+
+
+
+@media (max-width:575.98px)
+{
+    .section_info h2 {
+        font-size: 35px;
+    }
+    .section_info p {
+        font-size: 15px;
+        line-height: 35px;
+    }
+    #banner h3 {
+        font-size: 22px;
+    }
+    #banner h1 {
+        font-size: 46px;
+        letter-spacing: 18px;
+    }
+    #banner p {
+        font-size: 16px;
+    }
+    #banner a {
+        font-size: 14px;
+        font-weight: 600;
+        padding: 16px 30px;
+        letter-spacing: 3px;
+    }
+    #banner img {
+        display: block;
+        margin: 30px auto 40px;
+    }
+    #service .section_info {
+        margin-right: 0px;
+    }
+
+}
+
+
+
+
+
